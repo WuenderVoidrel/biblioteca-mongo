@@ -30,8 +30,7 @@ biblioteca-mongodb/
 
 ## Como executar
 
-```powershell
-cd C:\Users\wuender.martins\biblioteca-mongodb
+```bash
 npm install
 npm start
 ```
