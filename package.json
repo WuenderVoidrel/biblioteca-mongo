@@ -1,0 +1,16 @@
+{
+  "name": "biblioteca-mongodb",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de biblioteca com MongoDB (livros e emprestimos)",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "seed": "node src/seed.js"
+  },
+  "author": "Wuender Martins",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^8.5.1"
+  }
+}
